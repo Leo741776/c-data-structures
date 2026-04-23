@@ -3,7 +3,7 @@ This is a data structures library which includes a collection of data structures
 
 ## How to Run
 - build: `make`
-- run: `./ldsl_demo`
+- run: `./run`
 - clean: `make clean`
 
 ## Overview
