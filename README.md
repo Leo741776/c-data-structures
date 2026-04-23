@@ -2,7 +2,6 @@
 This is a data structures library which includes a collection of data structures (stack, queue, linked list, hash table, max-heap). I made this mainly for learning purposes.
 
 ## How to Run
-- clone the project
 - build: `make`
 - run: `./ldsl_demo`
 - clean: `make clean`
