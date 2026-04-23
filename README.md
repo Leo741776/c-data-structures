@@ -1,5 +1,5 @@
-# Lightweight Data Structures Library for C
-This is a data structures library which includes a collection of data structures (stack, queue, linked list, hash table, max-heap). I made this mainly for learning purposes.
+# Lightweight Data Structures Library
+This is a data structures library for C. It includes a collection of data structures (stack, queue, linked list, hash table, max-heap). I made this mainly for learning purposes.
 
 ## How to Run
 - build: `make`
